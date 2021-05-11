@@ -7,3 +7,5 @@ Git tracks changes of files.
 My boss is good boss
 Creating a new branch is simple and easy
 fix bug 101
+fix bug 102
+
