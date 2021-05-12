@@ -1,10 +1,12 @@
 # WEB应用软件开发实训-第三次作业-Git使用
 ## 一、必做部分
-### 实验过程截图
+### 1.安装Git
 [安装截图](http://note.youdao.com/s/6PUnYgB3)
 
+### 2.创建版本库
 [Blog列表页](http://note.youdao.com/s/Kppqcscz)
 
+### 3.版本控制
 [posts-markdown练习](http://note.youdao.com/s/2p6FdrbS)
 
 [posts-其他](http://note.youdao.com/s/3kWeLVyb)
@@ -16,6 +18,11 @@
 [staff-about](http://note.youdao.com/s/FxTy8ewV)
 
 ## 二、选做部分
+### 1.分支管理
+
+### 2.标签管理
+
+### 3.Gitee相关
 
 ## 三、实验过程
 ### Git讲义按步练习
