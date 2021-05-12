@@ -4,19 +4,24 @@
 [安装截图](http://note.youdao.com/s/7bFNu0yH)
 
 ### 2.创建版本库
-[Blog列表页](http://note.youdao.com/s/Kppqcscz)
+[创建版本库截图](http://note.youdao.com/s/AHa6iOXB)
 
 ### 3.版本控制
-[posts-markdown练习](http://note.youdao.com/s/2p6FdrbS)
+[版本回退截图](http://note.youdao.com/s/BUQFgg8S)
 
-[posts-其他](http://note.youdao.com/s/3kWeLVyb)
+[工作区和暂存区截图](http://note.youdao.com/s/KmqchAQI)
 
-[staff列表](http://note.youdao.com/s/5BeboaF6)
+[管理和修改截图](http://note.youdao.com/s/NUzNQ9lT)
 
-[staff-作者简介](http://note.youdao.com/s/LmnM6Kcu)
+[撤销修改截图](http://note.youdao.com/s/G7wySjy9)
 
-[staff-about](http://note.youdao.com/s/FxTy8ewV)
+[删除文件截图](http://note.youdao.com/s/aEgqxKvY)
 
+[远程仓库截图](http://note.youdao.com/s/96KwhoaD)
+
+[添加远程库截图](http://note.youdao.com/s/A9r4vwvl)
+
+[从远程库克隆截图](http://note.youdao.com/s/Px39um2W)
 ## 二、选做部分
 ### 1.分支管理
 
