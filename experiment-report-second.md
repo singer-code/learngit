@@ -1,7 +1,7 @@
 # WEB应用软件开发实训-第三次作业-Git使用
 ## 一、必做部分
 ### 1.安装Git
-[安装截图]http://note.youdao.com/s/7bFNu0yH)
+[安装截图](http://note.youdao.com/s/7bFNu0yH)
 
 ### 2.创建版本库
 [Blog列表页](http://note.youdao.com/s/Kppqcscz)
