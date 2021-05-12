@@ -41,6 +41,7 @@
 [操作标签截图](http://note.youdao.com/s/C4k7y1ng)
 
 ### 3.Gitee相关
+[Gitee截图](http://note.youdao.com/s/244jSJn2)
 
 ## 三、实验过程
 ### Git讲义按步练习
