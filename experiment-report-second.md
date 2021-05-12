@@ -36,6 +36,9 @@
 
 多人协作：没有另外一台电脑，所以只是仔细看了教程
 ### 2.标签管理
+[创建标签截图](http://note.youdao.com/s/IxQdioZk)
+
+[操作标签截图](http://note.youdao.com/s/C4k7y1ng)
 
 ### 3.Gitee相关
 
