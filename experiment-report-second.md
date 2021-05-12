@@ -24,7 +24,17 @@
 [从远程库克隆截图](http://note.youdao.com/s/Px39um2W)
 ## 二、选做部分
 ### 1.分支管理
+[创建与合并分支截图](http://note.youdao.com/s/avxq92rW)
 
+[解决冲突截图](http://note.youdao.com/s/QkVrA2W)
+
+[分支管理策略截图](http://note.youdao.com/s/Jt3A2BRz)
+
+[bug分支截图](http://note.youdao.com/s/TBbCZmr7)
+
+[feature分支截图](http://note.youdao.com/s/CWd54DnS)
+
+多人协作：没有另外一台电脑，所以只是仔细看了教程
 ### 2.标签管理
 
 ### 3.Gitee相关
